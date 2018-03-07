@@ -10,3 +10,10 @@ It can also be used with Arduino, simply copy the folder to your library folder.
 My assignment I wrote back in High School regarding Kalman filter can be found here: <http://www.tkjelectronics.dk/uploads/Kalman_SRP.zip>.
 
 For more information see my blog post: <http://blog.tkjelectronics.dk/2012/09/a-practical-approach-to-kalman-filter-and-how-to-implement-it> or send me an email at <kristianl@tkjelectronics.dk>.
+
+HOW to build
+1. mkdir build
+2. cd build
+3. cmake ../
+4. make
+5. sudo make install
